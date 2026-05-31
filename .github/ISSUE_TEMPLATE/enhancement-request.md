@@ -1,11 +1,14 @@
 ---
-name: Enhancement request about: Request an enhancement for Micrometer title: ''
-labels: enhancement assignees: ''
+name: Enhancement request
+about: Request an enhancement for Micrometer
+title: ''
+labels: 'waiting-for-triage'
+assignees: ''
 
 ---
 
 **Please describe the feature request.**
-A clear and concise description of what you would like to be able to do with Micrometer Tracing and cannot currently.
+A clear and concise description of what you would like to be able to do with Micrometer and cannot currently.
 
 **Rationale**
 Please help us understand the rationale (why) behind the enhancement request.
