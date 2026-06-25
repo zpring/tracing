@@ -1,0 +1,9 @@
+workflow:
+  generator:
+    actions:
+      checkout:
+        fetch-depth: 0
+    project:
+      java:
+        versions:
+          primary: 21
